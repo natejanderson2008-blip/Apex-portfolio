@@ -13,19 +13,22 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 ## Featured Artifacts
 
+
 <div class="artifact-card" markdown="1">
 
+### CS Lab Workstation and rack setup
+
 ### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">[Type of Artifact] | [August,2026]</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[collaboration]</span>
+<span class="skill-tag">[responsibility & Reliability]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/workstation/)
 
 </div>
 
