@@ -1,6 +1,6 @@
 # Apex Portfolio - [Nathaniel Anderson]
 
-This repository contains my student portfolio for the **Apex [Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
+This repository contains my student portfolio for the **Apex Cybersecurity Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 

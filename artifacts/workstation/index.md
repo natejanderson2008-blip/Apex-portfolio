@@ -9,7 +9,7 @@ title: CS lab and Rack Setup
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+[me and Jasiahs built a part of the sever rack, specifically step 3-4. also we built the computer station 1-3]
 
 **Project:** [CS Lab and Rack setup]
 
