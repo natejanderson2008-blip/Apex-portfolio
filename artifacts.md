@@ -18,10 +18,10 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 ### CS Lab Workstation and rack setup
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [August,2026]</p>
+### Lab workstation
+<p class="artifact-meta">[workstation] | [August,2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+me and Jasiahs built a part of the sever rack, specifically step 3-4. also we built the computer station 1-3
 
 **Skills demonstrated:**
 
@@ -34,15 +34,15 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### [network rack proposal]
+<p class="artifact-meta">[rack proposal] | [Sep 2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+I made a network rack proposal for what I think the server rack should look like.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[collaboration]</span>
+<span class="skill-tag">[research]</span>
 
 [View Artifact](artifacts/ARTIFACT-FOLDER/)
 
@@ -50,15 +50,15 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### [three lens guide]
+<p class="artifact-meta">[lens guide] | [Aug 2026]</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+I made a guide for myself on the the three lens in cyber security.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[collaboration]</span>
+<span class="skill-tag">[reliability]</span>
 
 [View Artifact](artifacts/ARTIFACT-FOLDER/)
 

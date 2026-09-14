@@ -7,11 +7,11 @@ title: CS lab and Rack Setup
 
 ## Summary
 
-[I made a guide for myself on the the three lens in cyber security.]
+I made a guide for myself on the the three lens in cyber security.
 
-**Project:** [Three lens guide]
+**Project:** Three lens guide
 
-**My role:** [I made a three lens guide]
+**My role:** I made a three lens guide
 
 ## The Artifact
 
