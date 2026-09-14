@@ -1,14 +1,14 @@
-# Apex Portfolio - [Nathaniel Anderson]
+# Apex Portfolio - Nathaniel Anderson
 
 This repository contains my student portfolio for the **Apex Cybersecurity Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
-**[Open Portfolio](https://natejanderson2008-blip.github.io/Apex-portfolio/)**
+**Open Portfolio(https://natejanderson2008-blip.github.io/Apex-portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [2027]. After high school, I plan to [do computer applicated work, for example cybersecurity, mechanical engineering, or auditing ]. I am interested in [computers and how stuff works]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2027. After high school, I plan to do computer applied work, for example cybersecurity, mechanical engineering, or auditing. I am interested in computers and how stuff works
 
 ## Portfolio Contents
 
@@ -18,7 +18,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 ## Featured Skills
 
-- [CAD] did solid works for 2 years 
+- CAD did solid works for 2 years 
 - [Skill]
 - [Skill]
 - [Skill]
@@ -38,5 +38,4 @@ This repository does not include:
 ## Contact
 
 - **GitHub:** [@USERNAME](https://github.com/USERNAME)
-- **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** [natejanderson2008@gmail.com]

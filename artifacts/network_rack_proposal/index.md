@@ -7,11 +7,11 @@ title: Network rack proposal
 
 ## Summary
 
-[I made a network rack proposal for what I think the server rack should look like.]
+I made a network rack proposal for what I think the server rack should look like.
 
-**Project:** [network rack proposal]
+**Project:** network rack proposal
 
-**My role:** [I made a network rack proposal]
+**My role:** I made a network rack proposal
 
 ## The Artifact
 
