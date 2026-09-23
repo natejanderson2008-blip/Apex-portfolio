@@ -44,7 +44,7 @@ I made a network rack proposal for what I think the server rack should look like
 <span class="skill-tag">[collaboration]</span>
 <span class="skill-tag">[research]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/network_rack_proposal)
 
 </div>
 
@@ -60,7 +60,7 @@ I made a guide for myself on the the three lens in cyber security.
 <span class="skill-tag">[collaboration]</span>
 <span class="skill-tag">[reliability]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/three_lens_guide)
 
 </div>
 
