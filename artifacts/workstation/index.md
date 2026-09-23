@@ -5,15 +5,15 @@ title: CS lab and Rack Setup
 
 # CS Lab and Rack setup
 
-<p class="artifact-meta">[image] | [August 2026]</p>
+<p class="artifact-meta">image | August 2026</p>
 
 ## Summary
 
-[me and Jasiahs built a part of the sever rack, specifically step 3-4. also we built the computer station 1-3]
+me and Jasiahs built a part of the sever rack, specifically step 3-4. also we built the computer station 1-3
 
-**Project:** [CS Lab and Rack setup]
+**Project:** CS Lab and Rack setup
 
-**My role:** [Jasiahs and I built step 3 on the computer rack and also computer station 1-3]
+**My role:** Jasiahs and I built step 3 on the computer rack and also computer station 1-3
 
 ## The Artifact
 
@@ -27,8 +27,8 @@ title: CS lab and Rack Setup
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[collaboration]</span>
-<span class="skill-tag">[Responsibility & Reliability]</span>
+<span class="skill-tag">collaboration</span>
+<span class="skill-tag">Responsibility & Reliability</span>
 
 ## What I Learned
 

@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Nate Anderson
 
 [City, State]  
 [School-approved or professional email]  
@@ -14,7 +14,7 @@ title: Resume
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+**Cybersecurity** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
 
 ## Skills
 
