@@ -67,17 +67,17 @@ I made a guide for myself on the the three lens in cyber security.
 ---
 ## All Artifacts
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## risk mitigation brief
+<p class="artifact-meta">[image] | [sep 2026]</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">[research]</span>
+<span class="skill-tag">[analysis]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/risk mitigation brief-FOLDER/)
 
 
 ---
