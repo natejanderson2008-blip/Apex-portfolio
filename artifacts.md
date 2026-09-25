@@ -77,7 +77,7 @@ I made a guide for myself on the the three lens in cyber security.
 <span class="skill-tag">[research]</span>
 <span class="skill-tag">[analysis]</span>
 
-[View Artifact](artifacts/risk mitigation brief-FOLDER/)
+[View Artifact](artifacts/risk_mitigation_brief/)
 
 
 ---
