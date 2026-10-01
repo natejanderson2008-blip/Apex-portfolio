@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS lab and Rack Setup
+title: Three Lens Guide
 ---
 
 <p class="artifact-meta">[image] | [August 2026]</p>
