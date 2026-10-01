@@ -15,9 +15,7 @@ I made a guide for myself on the the three lens in cyber security.
 
 ## The Artifact
 
-![photo of the computer rack](Nate's three lens guide.pdf)
-
-[View the full artifact](Nate's three lens guide.pdf)0
+![Three lens guide](three_lens_guide.png)
 
 ## Skills Demonstrated
 
