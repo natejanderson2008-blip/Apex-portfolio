@@ -1,6 +1,6 @@
 ---
 layout: default
-title: risk mitigation brief
+title: Risk Mitigation Brief
 ---
 
 <p class="artifact-meta">image | Sep 2026</p>
@@ -15,9 +15,7 @@ I research risk mitigation on three different companies
 
 ## The Artifact
 
-![photo of the computer rack](nates risk mitigation brief.pdf)
-
-[View the full artifact](nates risk mitigation brief.pdf)0
+[View the full artifact](risk_mitigation_brief.pdf)
 
 ## Skills Demonstrated
 
